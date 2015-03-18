@@ -1,5 +1,4 @@
 #Author: Rain Erika H. Angelito
-# CMSC 137 LAB1A
 #Program that ask for a positive integer to list the divisible numbers less
 # than it.
 x=input('Input an integer:  ')
